@@ -506,6 +506,7 @@ footer {
     .cols-3, .cols-2 { grid-template-columns: 1fr; }
 }
 
+/* fix(landing): navbar collapses below 720px so sign-up moves into the menu and stays reachable (US24) */
 @media (max-width: 720px) {
     section { padding: 3rem 0; }
     .hero { padding: 3.5rem 0 3rem; }
