@@ -155,6 +155,7 @@ var EN_FALLBACK = {
     failed: 'Check the highlighted fields and try again.'
 };
 
+// fix(landing): English forced as the default locale (course requirement)
 var locale = 'en-US';
 var original = new WeakMap();
 
