@@ -593,6 +593,7 @@ footer{background:#fff}
 /* =========================================================
    TESTIMONIOS — estilo visual reforzado
    ========================================================= */
+/* style(landing): grid and card styles for the new testimonials layout */
 .testimonials-section {
     position: relative;
     overflow: hidden;
