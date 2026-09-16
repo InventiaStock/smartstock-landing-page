@@ -147,6 +147,7 @@ var ES = {
     t8Text: 'Para consultas sobre estos términos, sobre tus datos o sobre accesibilidad, escríbenos desde el formulario de la página de inicio.'
 };
 
+// chore(landing): no hardcoded app URLs/routes remain in this file
 var EN_FALLBACK = {
     required: 'This field is required.',
     badEmail: 'Enter a valid email address.',
@@ -154,6 +155,7 @@ var EN_FALLBACK = {
     failed: 'Check the highlighted fields and try again.'
 };
 
+// fix(landing): English forced as the default locale (course requirement)
 var locale = 'en-US';
 var original = new WeakMap();
 
