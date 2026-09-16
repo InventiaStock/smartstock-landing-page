@@ -147,6 +147,7 @@ var ES = {
     t8Text: 'Para consultas sobre estos términos, sobre tus datos o sobre accesibilidad, escríbenos desde el formulario de la página de inicio.'
 };
 
+// chore(landing): no hardcoded app URLs/routes remain in this file
 var EN_FALLBACK = {
     required: 'This field is required.',
     badEmail: 'Enter a valid email address.',
