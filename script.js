@@ -181,17 +181,6 @@ function setLocale(next) {
         }
     });
 
-    document.querySelectorAll('.price-value').forEach(function (el) {
-        var pen = Number(el.getAttribute('data-price-pen'));
-
-        if (next === 'en-US') {
-        var usd = pen / 3.45; // Tipo de cambio de ejemplo
-            el.textContent = '$ ' + usd.toFixed(2);
-        } else {
-            el.textContent = 'S/ ' + pen;
-        }
-    });
-
     if (next === 'es-419' && ES.title) {
         document.title = ES.title;
     }
