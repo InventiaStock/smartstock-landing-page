@@ -16,6 +16,7 @@ var ES = {
     navUses: 'Casos de uso',
     navCompare: 'Comparación',
     navPlans: 'Planes',
+    navVideos: 'Videos',
     navFaq: 'Preguntas',
     signUp: 'Crear cuenta',
 
@@ -85,6 +86,19 @@ var ES = {
     p3f2: 'Varias tiendas en una cuenta',
     p3f3: 'Acceso completo al API',
     p3Cta: 'Hablar con ventas',
+
+    videosEyebrow: 'SMARTSTOCK EN VIDEO',
+    videosTitle: 'Descubre SmartStock en acción',
+    videosIntro: 'Conoce nuestro producto y al equipo que está detrás de él a través de nuestros videos oficiales.',
+    productVideoKicker: 'PRESENTACIÓN DEL PRODUCTO',
+    productVideoTitle: 'Conoce el producto',
+    productVideoDescription: 'Descubre cómo SmartStock ayuda a bodegas y minimarkets a organizar y monitorear sus inventarios.',
+    productVideoIframeTitle: 'SmartStock — Video About the Product',
+    teamVideoKicker: 'CONOCE AL EQUIPO',
+    teamVideoTitle: 'Conoce a nuestro equipo',
+    teamVideoDescription: 'Conoce al equipo InventiaStock y el trabajo colaborativo detrás de SmartStock.',
+    teamVideoIframeTitle: 'SmartStock — Video About the Team',
+    videosWatchOnYoutube: 'Ver en YouTube',
 
     testEyebrow: 'EXPERIENCIAS DE NUESTROS USUARIOS',
     testTitle: 'Lo que dicen los dueños de tienda',
